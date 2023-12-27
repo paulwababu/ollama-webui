@@ -1,6 +1,6 @@
 {
-  "name": "Ollama Web UI",
-  "short_name": "Ollama",
+  "name": "prometheus Oracle",
+  "short_name": "Prometheus",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#343541",
@@ -8,7 +8,7 @@
   "orientation": "portrait-primary",
   "icons": [
     {
-      "src": "/favicon.png",
+      "src": "https://res.cloudinary.com/prometheusapi/image/upload/v1698804704/pic_bulboff_pwkqyr_mom5c8.png",
       "type": "image/png",
       "sizes": "844x884"
     }
